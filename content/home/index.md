@@ -2,7 +2,7 @@
 widget: hero
 widget_id: top_challenge
 headless: true
-weight: 0
+weight: 10
 title: My Dingaling
 subtitle: I want you to play with my dingaling
 active: true
