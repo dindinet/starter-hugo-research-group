@@ -2,16 +2,16 @@
 advanced:
   css_class: fullscreen
 widget: blank
-widget_id: fp-image
+widget_id: my-widget
 headless: true
-weight: 30
+weight: 50
 title: null
 subtitle: null
 active: true
 design:
   columns: "2"
   background:
-    image: coders.jpg
+    image: https://res.cloudinary.com/dklongley/image/upload/Screenshot_from_2022-06-09_14-50-39.jpg
     image_darken: 0
     image_parallax: false
     image_position: center
