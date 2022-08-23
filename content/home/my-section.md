@@ -2,7 +2,7 @@
 advanced:
   css_class: fullscreen
 widget: blank
-widget_id: my-widget
+widget_id: my-section
 headless: true
 weight: 50
 title: null
