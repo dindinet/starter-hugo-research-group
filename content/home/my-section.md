@@ -11,7 +11,7 @@ active: true
 design:
   columns: "2"
   background:
-    image: https://res.cloudinary.com/dklongley/image/upload/Screenshot_from_2022-06-09_14-50-39.jpg
+    image: ladies.jpg
     image_darken: 0
     image_parallax: false
     image_position: center
